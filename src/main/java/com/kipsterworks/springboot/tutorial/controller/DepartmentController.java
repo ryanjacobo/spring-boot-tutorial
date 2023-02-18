@@ -2,7 +2,6 @@ package com.kipsterworks.springboot.tutorial.controller;
 
 import com.kipsterworks.springboot.tutorial.entity.Department;
 import com.kipsterworks.springboot.tutorial.service.DepartmentService;
-import com.kipsterworks.springboot.tutorial.service.DepartmentServiceImpl;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
